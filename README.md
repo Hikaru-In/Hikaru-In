@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hikaru-In
 - 👀 I’m interested in dApps
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
